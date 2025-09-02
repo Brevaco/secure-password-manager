@@ -91,10 +91,15 @@ For Advanced Users/Scripting: Use the CLI for its speed and ability to be integr
 📁 Project Structure
 
 secure-password-manager/
+
 ├── password_manager_gui.py  # Main GUI application
+
 ├── password_manager.py      # CLI application
+
 ├── vault.dat                # Encrypted vault (created automatically)
+
 ├── LICENSE
+
 └── README.md
 
 
