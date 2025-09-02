@@ -1,0 +1,9 @@
+{
+  "vault_salt": "VBjItjfhi26Ft35talR64w==",
+  "services": {
+    "youtube": {
+      "ciphertext": "zvaToXECVpa6RWUXXC5fr75yMjkRINX4X7YOPDdfObnrfKXQMsJ+KkNpNzqVogYa",
+      "nonce": "VvYTi96St5xtcbUH"
+    }
+  }
+}
