@@ -6,7 +6,7 @@ This project offers two interfaces to the same secure core: a Graphical User Int
 
 ## 🔐 Core Security Features (Both Versions)
 
-- Encryption: **AES-256-GCM** for confidential and authenticated encryption.
+- Encryption: AES-256-GCM for confidential and authenticated encryption.
 - Key Derivation: PBKDF2HMAC-SHA256 with 480,000 iterations and a unique salt.
 - Data Integrity: The master password is validated by attempting to decrypt existing data before granting access.
 - Zero-Knowledge: The master password is never stored. Only the encrypted vault (`vault.dat`) is persisted.
